@@ -2,7 +2,7 @@
 
 void test1()
 {
-    Console.WriteLine(Class1.Evaluate("5"));
+    Console.WriteLine(Class1.Evaluate("10"));
 }
 
 test1();
